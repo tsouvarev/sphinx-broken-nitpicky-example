@@ -135,10 +135,10 @@ LOGGING = {
         },
     },
     'loggers': {
-        # '': {
-        #     'handlers': ['console'],
-        #     'level': 'ERROR',
-        #     'propagate': True,
-        # },
+        '': {
+            'handlers': ['console'],
+            'level': 'ERROR',
+            'propagate': True,
+        },
     }
 }
